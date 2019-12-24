@@ -1,0 +1,6 @@
+C:\Users\Dasha\source\repos\LAB_12_13\LAB_12_13\bin\Debug\LAB_12_13.exe.config
+C:\Users\Dasha\source\repos\LAB_12_13\LAB_12_13\bin\Debug\LAB_12_13.exe
+C:\Users\Dasha\source\repos\LAB_12_13\LAB_12_13\bin\Debug\LAB_12_13.pdb
+C:\Users\Dasha\source\repos\LAB_12_13\LAB_12_13\obj\Debug\LAB_12_13.csprojAssemblyReference.cache
+C:\Users\Dasha\source\repos\LAB_12_13\LAB_12_13\obj\Debug\LAB_12_13.exe
+C:\Users\Dasha\source\repos\LAB_12_13\LAB_12_13\obj\Debug\LAB_12_13.pdb
